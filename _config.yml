@@ -1,0 +1,9 @@
+---
+# Minimal Jekyll config for GitHub Pages
+# Allows all markdown files to be rendered into HTML
+markdown: kramdown
+permalink: pretty
+
+# Title for the site
+title: AZ-305 Solutions Architect
+---
